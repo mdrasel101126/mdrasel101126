@@ -1,6 +1,4 @@
-### Hi there 👋,I am Rasel Miah
-#### Web Developer (MERN)
-(https://media-exp1.licdn.com/dms/image/D5616AQHk6hYztJv_rw/profile-displaybackgroundimage-shrink_350_1400/0/1670096603559?e=1675296000&v=beta&t=phRRyrEw_j9JmQoXCSFxlZqkjXrIw1W5ZPmuKvDlPAY)
+### Hi there 👋,I am Rasel Miah(https://media-exp1.licdn.com/dms/image/D5616AQHk6hYztJv_rw/profile-displaybackgroundimage-shrink_350_1400/0/1670096603559?e=1675296000&v=beta&t=phRRyrEw_j9JmQoXCSFxlZqkjXrIw1W5ZPmuKvDlPAY)
 
 I am a full stack developer (MERN).I completed my bachelor of computer science and engineering degree (2016-2021) from Sylhet Engineering College, Sylhet (affiliated with Shahjalal University of Science and Technology).I am passionate in web development. I am a quick learner.I like to learn new skills. I have  experience with HTML, CSS, JavaScript, ReactJS, MongoDB, ExpressJS, Firebase, Tailwind, DaisyUI , MaterialUI .I completed some projects with these technologies .
 
