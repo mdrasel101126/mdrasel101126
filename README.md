@@ -11,8 +11,8 @@ I am a full stack developer (MERN).I completed my bachelor of computer science a
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/rasel-miah-836017244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rasel-miah-836017244" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100014968758892" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100014968758892" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rasel-miah-836017244" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/rasel-miah-836017244" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100014968758892" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100014968758892" height="30" width="40" /></a>
 </p> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mdrasel101126)](https://github.com/ryo-ma/github-profile-trophy)
